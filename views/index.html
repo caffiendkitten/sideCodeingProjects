@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Welcome to My Stock Price Checker!</title>
+    <meta name="description" content="A cool thing made with HyperDev" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="./public/style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>
+        My Stock Price Checker
+      </h1>
+    </header>
+   
+    <hr />
+    <div id="testui">
+      <h3>Get single price and total likes</h3>
+      <form id="testForm2" class="border">
+        <input type="text" name="stock" placeholder="goog" required="" />
+        <input type="checkbox" name="like" value="true" /> Like?<br />
+        <button type="submit">Get Price!</button>
+      </form>
+      <h3>Compare and get relative likes</h3>
+      <form id="testForm" class="border">
+        <input type="text" name="stock" placeholder="goog" required="" />
+        <input type="text" name="stock" placeholder="msft" required="" />
+        <input type="checkbox" name="like" value="true" /> Like both?<br />
+        <button type="submit">Get Price!</button>
+      </form>
+      <code id="jsonResult"></code>
+    </div>
+    <hr />
+    <script src="./public/jquery.min.js"></script>
+    <script src="./public/script.js"></script>
+  </body>
+</html>

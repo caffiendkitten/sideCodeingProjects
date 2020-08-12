@@ -1,4 +1,10 @@
-**FreeCodeCamp**- Information Security and Quality Assurance Project
+This will be a repository of Side Coding Projects
 ------
 
-This project is to create a Stock Price Checker that will enable testing, update information to a mongodb, and present stock info on the page.
+
+| Project Name            | Second Header |
+| ----------------------- | ------------- |
+| [My Stock Price Checker][1]  | Content Cell  |
+
+
+[1]: ./FCC-StockPriceChecker

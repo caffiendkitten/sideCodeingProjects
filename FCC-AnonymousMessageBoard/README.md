@@ -1,11 +1,7 @@
-**FreeCodeCamp**- Information Security and Quality Assurance
+**FreeCodeCamp**- Information Security and Quality Assurance Project Anon Message Board Project
 ------
 
-Project Anon Message Board
+This project is to create an Anonoimous Message Board app that will enable testing, update messages to a mongodb, and present message info on the page.
 
-1) SET NODE_ENV to `test` without quotes when ready to write tests and DB to your databases connection string (in .env)
-2) Recomended to create controllers/handlers and handle routing in routes/api.js
-3) You will add any security features to `server.js`
-4) You will create all of the functional/unit tests in `tests/2_functional-tests.js` and `tests/1_unit-tests.js` but only functional will be tested
-
-
+See a live version on Glitch https://fcc-messaging-project.glitch.me/
+See Glitch code https://glitch.com/edit/#!/fcc-messaging-project

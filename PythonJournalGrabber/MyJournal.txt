@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<livejournal>
+<entry>
+<itemid>34260</itemid>
+<eventtime>1987-10-08 21:57:00</eventtime>
+<logtime>2008-04-17 06:03:31</logtime>
+<subject>sample file</subject>
+<event>This is a sample event. this is where an entry would go.</event>
+<security>usemask</security>
+<allowmask>1</allowmask>
+<current_music>Me First and the Gimmie Gimmies</current_music>
+<current_mood>tired</current_mood>
+</entry>
+<entry>
+<itemid>168350</itemid>
+<eventtime>2004-10-16 23:28:00</eventtime>
+<logtime>2013-10-25 06:28:58</logtime>
+<subject> another sample subject</subject>
+<event> another sample event </event>
+<security>usemask</security>
+<allowmask>1</allowmask>
+<current_music>
+</current_music>
+<current_mood> sad</current_mood>
+</entry>
+</livejournal>

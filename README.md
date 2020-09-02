@@ -10,6 +10,7 @@ This will be a repository of Side Coding Projects
 | [FCC SHA-1 Password Cracker][4]  | SHA-1 Password cracker with dictionary list and option of known salts list |
 | [FCC My Stock Price Checker][5]  | Stock Price Checking App   |
 | [THM-mysite][6]                  | Temp Site made with Django |
+| [PythonJournalGrabber][7]        | Python Based Journal app |
 
 
 [1]: ./FCC-AnonymousMessageBoard
@@ -18,3 +19,4 @@ This will be a repository of Side Coding Projects
 [4]: ./FCC-SHA-1PasswordCracker
 [5]: ./FCC-StockPriceChecker
 [6]: ./THM-mysite
+[7]: ./PythonJournalGrabber

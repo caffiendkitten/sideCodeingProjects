@@ -4,6 +4,7 @@ This will be a repository of Side Coding Projects
 
 | Project Name                     | Description         |
 | -------------------------------- | ------------------ |
+| [Coding Challenge Practice][8] | Coding Challenge Practice |
 | [FCC Anonymous Message Board][1] | Anonymous Message Board App |
 | [FCC Port Scanner][2]            | Python port Scanner with sockets |
 | [FCC Secure RealTime Game][3]    | Media game useing Sockets.io |
@@ -20,3 +21,4 @@ This will be a repository of Side Coding Projects
 [5]: ./FCC-StockPriceChecker
 [6]: ./THM-mysite
 [7]: ./PythonJournalGrabber
+[8]: ./CodingPractice

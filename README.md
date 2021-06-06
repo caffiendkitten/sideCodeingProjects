@@ -4,7 +4,7 @@ This will be a repository of Side Coding Projects
 
 | Project Name                     | Description         | Date  |
 | -------------------------------- | ------------------ | - |
-| [Coding Challenge Practice: <br /> PHP Hash Matcher][12] | PHP Hash Matcher Coding Challenge Practice | 2019 |
+| [Coding Challenge Practice: <br />    PHP Hash Matcher][12] | PHP Hash Matcher Coding Challenge Practice | 2019 |
 | [Coding Challenge Practice - Cipher Identifier][11] | Cipher Identifier Coding Challenge Practice | 2019 |
 | [Coding Challenge Practice - List Months][10] | Month Lister Coding Challenge Practice | March, 2021 |
 | [Coding Challenge Practice - Prime Number][9] | Prime Number Identifier Coding Challenge Practice | March, 2021 |

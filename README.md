@@ -4,22 +4,22 @@ This will be a repository of Side Coding Projects
 
 | Project Name                     | Description         | Date  |
 | -------------------------------- | ------------------ | - |
-| [Coding Challenge Practice: <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;List Months][10] | Month Lister Coding Challenge Practice | March, 2021 |
-| [Coding Challenge Practice: <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prime Number][9] | Prime Number Identifier Coding Challenge Practice | March, 2021 |
-| [Coding Challenge Practice: <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Caesar Cipher][8] | Caesar Cipher Coding Challenge Practice | March, 2021 |
+| [Month Lister][10] | Month Lister Coding Challenge Practice to list days of a month.| March, 2021 |
+| [is Prime?][9] | Coding Challenge Practice to  Identify Prime Number | March, 2021 |
+| [Caesar Cipher][8] | Coding Challenge Practice to make Caesar Cipher | March, 2021 |
 | [PythonJournalGrabber][7]        | Python Based Journal app | 2020 |
-| [freeCodeCamp: <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anonymous Message Board][1] | Anonymous Message Board App | 2020 |
-| [freeCodeCamp: <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Port Scanner][2]            | Python port Scanner with sockets | 2020 |
-| [freeCodeCamp: <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Secure RealTime MGame][3]    | Media game useing Sockets.io | 2020 |
-| [freeCodeCamp: <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SHA-1 Password Cracker][4]  | SHA-1 Password cracker with dictionary list and option of known salts list | 2020 |
-| [freeCodeCamp: <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My Stock Price Checker][5]  | Stock Price Checking App   | 2020 |
-| [THM: <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Django Site][6]                  | Temp Site made with Django | 2020 |
-| [Coding Challenge Practice: <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Is string a Palindrone?][15] | Simple Ruby Program Coding Challenge Practice to test if input is Palindrone | 2019 |
-| [Coding Challenge Practice: <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If word is in array checker][16] | Simple Ruby Coding Challenge Practice to test if string is in an array. | 2019 |
-| [Coding Challenge Practice: <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flip input string][14] | Coding Challenge Practice to flip input string | 2019 |
-| [Coding Challenge Practice: <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;String to B64 encoded byte String][13] | String to B64 encoded byte String Coding Challenge Practice | 2019 |
-| [Coding Challenge Practice: <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PHP Hash Matcher][12] | PHP Hash Matcher Coding Challenge Practice | 2019 |
-| [Coding Challenge Practice: <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cipher Identifier][11] | Cipher Identifier Coding Challenge Practice | 2019 |
+| [Anonymous Message Board][1] | freeCodeCamp Project to create an anonymous message board App | 2020 |
+| [Port Scanner][2]            | freeCodeCamp Project to create a Python port Scanner with sockets | 2020 |
+| [Secure RealTime MGame][3]    | freeCodeCamp Project to create a Media game useing Sockets.io | 2020 |
+| [SHA-1 Password Cracker][4]  | freeCodeCamp Project to create a SHA-1 Password cracker with dictionary list and option of known salts list | 2020 |
+| [My Stock Price Checker][5]  | freeCodeCamp Project to create a Stock Price Checking App   | 2020 |
+| [Django Site][6]                  | TryHackMe Temp Site made with Django | 2020 |
+| [Is string a Palindrone?][15] | Coding Challenge Practice to check if input is Palindrone | 2019 |
+| [If word is in array checker][16] | Coding Challenge Practice to test if a given string is in an array. | 2019 |
+| [Flip input string][14] | Coding Challenge Practice to reverse input | 2019 |
+| [String to B64 encoded byte String][13] | Coding Challenge Practice to change a String to a B64 encoded byte String | 2019 |
+| [PHP Hash Matcher][12] | Coding Challenge Practice to to match PHP Hashs | 2019 |
+| [Basic Cipher Identifier][11] | Coding Challenge Practice to Identify a Cipher | 2019 |
 
 [16]: ./CodingPractice/arrayWordFinder.rb
 [15]: ./CodingPractice/inPalindrome.rb
